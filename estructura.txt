@@ -1,0 +1,6 @@
+OrderFlowPRO/
++-- orderflow_pro.py      # Programa principal
++-- requirements.txt       # Dependencias
++-- README.md             # Documentación
++-- .gitignore            # Archivos ignorados
++-- backups/              # Backups automáticos
